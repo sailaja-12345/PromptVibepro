@@ -1,0 +1,6 @@
+{
+  "name": "PromptVibe AI - Universal Visual Prompt Architect",
+  "description": "Professional AI photo and video prompt generation and refinement studio for Midjourney, Runway, Flux, and more. Cinematic, photorealistic, and abstract styles with syntax export and credit management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
